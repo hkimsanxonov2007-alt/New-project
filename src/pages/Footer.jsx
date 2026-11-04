@@ -9,6 +9,7 @@ function Footer() {
         Increase the flow of customers and sales for your business with digital
         marketing & growth solutions.
       </p>
+      Hello
     </div>
   );
 }
